@@ -6,6 +6,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@0xtfm/widget-ibc": "^0.0.3",
     "@cosmjs/amino": "^0.29.3",
     "@cosmjs/stargate": "^0.29.3",
     "@emotion/react": "^11.9.0",
