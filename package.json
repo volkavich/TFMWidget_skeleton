@@ -6,6 +6,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@0xtfm/widget-ibc": "^0.0.3",
     "@cosmjs/amino": "^0.29.3",
     "@cosmjs/stargate": "^0.29.3",
     "@emotion/react": "^11.9.0",
@@ -33,7 +34,7 @@
   },
   "devDependencies": {
     "env-cmd": "^10.1.0",
-    "eslint": "^6.8.0",
+    "eslint": "7.32.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-node": "^11.0.0",
